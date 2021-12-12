@@ -23,8 +23,8 @@ education:
   courses:
     - course: B.S. in Computer Science
       institution: National Yang Ming Chiao Tung University
-      year: ""
-email: ""
+      year: 2021
+email: 9heich@gmail.com
 superuser: true
 highlight_name: true
 ---
