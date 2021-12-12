@@ -1,25 +1,18 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Chieh Nien
+role: Computer Science Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 9heich@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Ligoon
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
