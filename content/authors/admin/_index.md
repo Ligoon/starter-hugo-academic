@@ -6,15 +6,13 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Artificial Intelligence
   - Computer Vision
+  - Deep Learning
 social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Ligoon
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
-  - name: National Yang Ming Chiao Tung University
+  - name: National Yang Ming Chiao Tung University (NYCU)
     url: https://www.nycu.edu.tw/en/
 education:
   courses:
@@ -26,8 +24,6 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated from National Yang Ming Chiao Tung University (NYCU) in 2021 with a degree in Computer Science. I used to work as a Software Engineer Intern at [Dentall Inc.](https://dentall.io/) and [Wincomm Corporation](https://www.wincomm.com.tw/). 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
