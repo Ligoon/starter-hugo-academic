@@ -30,9 +30,10 @@ experience:
     date_start: '2021-03-01'
     date_end: '2021-07-01'
     description: |2-
-      - improved the accuracy of previous tooth-numbering detection model by 60% and x-ray classification model by 3%
-      - developed deep learning application for tooth numbering and caries detection of x-ray film, using self-developed algorithms (with pytorch, tensorflow) and open-source models (e.g. YOLO, Mask R-CNN, ResNet)
-      - conducted researches and survey the latest research paper of deep learning, computer version in dental field
+      - Improved accuracy of tooth-numbering model by 60% utilizing pre-trained YOLOv5
+      - Implemented post-processing algorithm using TensorFlow and Python to improve YOLOv5’s prediction by 10%
+      - Achieved an accuracy of 98% on x-ray film classifier with transfer learning utilizing ResNet and DenseNet
+      - Conducted researches and survey the latest research paper of deep learning, computer version in dental field
         
   - title: Front-end Web Developer Intern
     company: Department of Computer Science, NYCU
@@ -42,9 +43,8 @@ experience:
     date_start: '2020-02-01'
     date_end: '2021-02-01'
     description: |2-
-      - developed registration function to serve 800+ students’ demand in independent study using React.js and Redux
-      - Optimized user interface of CS department assistant website for 50+ professor users
-      - Worked in a team of 10+ front-end developers and back-end developers
+      - Designed and maintained CS department website for 50+ professors to manage students’ information and course status with React.js, Material UI, and Redux
+      - Cooperated with back-end team to develop a new function to serve 800+ students’ demand in graduation project registration
 
   - title: Software Engineer Summer Intern
     company: Wincomm Corporation
@@ -54,7 +54,7 @@ experience:
     date_start: '2018-07-01'
     date_end: '2018-08-31'
     description: |2-
-      - built an internal web application, using Django, MySQL, python, for detecting real-time information (e.g. voltages, battery data, CPU temperature, fan speed) from hardware devices
+      - Built an internal web application, using Python, Django and MySQL, for monitoring real-time information (voltages, battery data, CPU temperature, fan speed, etc.) from hardware devices
 
 design:
   columns: '1'
