@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Dev Engineer Intern
+    company: Amazon, Inc.
+    company_url: 'https://www.amazon.com/'
+    company_logo: amazon
+    location: Seattle, WA
+    date_start: '2018-05-10'
+    date_end: '2018-08-22'
+    description: |2-
+      - Designed a microservices architecture with AWS Lambda, Step Function, and S3, integrated with an existing system
+      - Migrated and improved scalability of account subscription process using asynchronous workflow with Java
+      - Streamlined deployment with CI/CD pipeline and wrote infrastructure as code with AWS CDK and Typescript
+  
   - title: Software Engineer Intern 
     company: Dentall Inc.
     company_url: 'https://dentall.io/'
@@ -46,15 +58,7 @@ experience:
       - Designed and maintained CS department website for 50+ professors to manage students’ information and course status with React.js, Material UI, and Redux
       - Cooperated with back-end team to develop a new function to serve 800+ students’ demand in graduation project registration
 
-  - title: Software Engineer Summer Intern
-    company: Wincomm Corporation
-    company_url: 'https://www.wincomm.com.tw/'
-    company_logo: wincomm
-    location: Hsinchu, Taiwan
-    date_start: '2018-07-01'
-    date_end: '2018-08-31'
-    description: |2-
-      - Built an internal web application, using Python, Django and MySQL, for monitoring real-time information (voltages, battery data, CPU temperature, fan speed, etc.) from hardware devices
+  
 
 design:
   columns: '1'
